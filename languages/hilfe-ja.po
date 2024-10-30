@@ -1,0 +1,420 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HILFE\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-15 02:54+0000\n"
+"PO-Revision-Date: 2024-08-22 02:20+0000\n"
+"Last-Translator: \n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.1.1\n"
+"X-Domain: hilfe"
+
+#: model/class-hilfe-model-shortcode.php:15
+msgid "Accommodation Booking"
+msgstr "宿泊施設予約"
+
+#: admin/class-hilfe-admin-guide.php:251
+msgid "App android can not empty"
+msgstr "Androidアプリを入力してください"
+
+#: admin/class-hilfe-admin-guide.php:235
+#, fuzzy
+#| msgid "Index can not empty"
+msgid "App index can not empty"
+msgstr "インデックスを入力してください"
+
+#: admin/class-hilfe-admin-guide.php:247
+msgid "App ios can not empty"
+msgstr "iOSアプリを入力してください"
+
+#: admin/partials/hilfe-admin-shortcode-display.php:103
+#: admin/partials/hilfe-admin-guide-display.php:223
+msgid "Are you want to reset data default"
+msgstr "デフォルトデータをリセットしたいですか？"
+
+#: model/class-hilfe-model-guide.php:16
+msgid "Available on smartphone, iPad and tablets"
+msgstr "スマートフォンとiPad・タブレットの両方で使用できます。"
+
+#: admin/partials/hilfe-admin-shortcode-edit-display.php:35
+msgid "Back to shortcode management"
+msgstr "ショートコード管理に戻る"
+
+#: admin/partials/hilfe-admin-guide-display.php:82
+msgid "Background color"
+msgstr "背景色"
+
+#: admin/class-hilfe-admin-guide.php:189
+msgid "Background color can not empty"
+msgstr "背景色を選択してください"
+
+#: admin/partials/hilfe-admin-shortcode-display.php:49
+#: admin/partials/hilfe-admin-shortcode-edit-display.php:73
+msgid "Banner"
+msgstr "バンナー"
+
+#: admin/class-hilfe-admin-shortcode-edit.php:185
+msgid "Banner can not empty"
+msgstr "バンナーを選択してください"
+
+#: model/class-hilfe-model-shortcode.php:9
+msgid "Car Booking"
+msgstr "車両予約"
+
+#: model/class-hilfe-model-shortcode.php:57
+msgid "Cemetery Booking"
+msgstr "墓地予約"
+
+#: admin/partials/hilfe-admin-shortcode-edit-display.php:112
+msgid "Choose Image"
+msgstr "画像の選択"
+
+#: admin/partials/hilfe-admin-shortcode-edit-display.php:110
+msgid "Choose new banner"
+msgstr "新しいバンナーの選択"
+
+#: admin/class-hilfe-admin-shortcode-edit.php:181
+msgid "Code can not empty"
+msgstr "ゴードを入力してください"
+
+#: admin/partials/hilfe-admin-dashboard-display.php:22
+msgid "Contractor login"
+msgstr "契約者としてログインします"
+
+#: admin/partials/hilfe-admin-dashboard-display.php:23
+msgid "Contractor register"
+msgstr "契約者として登録します"
+
+#: admin/partials/hilfe-admin-guide-display.php:101
+msgid "Custom title"
+msgstr "カスタムタイトル"
+
+#: admin/partials/hilfe-admin-guide-display.php:50
+msgid "Custom UI"
+msgstr "カスタムUI"
+
+#: admin/class-hilfe-admin-dashboard.php:46
+#: admin/class-hilfe-admin-dashboard.php:47
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: model/class-hilfe-model-guide.php:15 model/class-hilfe-model-guide.php:17
+msgid "Download here"
+msgstr "ダウンロードはこちら"
+
+#: admin/partials/hilfe-admin-shortcode-display.php:87
+msgid "Edit"
+msgstr "編集"
+
+#: model/class-hilfe-model-shortcode.php:84
+msgid "Empty code"
+msgstr "空白のコード"
+
+#: model/class-hilfe-model-shortcode.php:89
+#: admin/class-hilfe-admin-shortcode-edit.php:145
+msgid "Empty config"
+msgstr "空白の設定"
+
+#: model/class-hilfe-model-guide.php:37 model/class-hilfe-model-guide.php:60
+msgid "For Contractor"
+msgstr "契約者向け"
+
+#: model/class-hilfe-model-guide.php:30 model/class-hilfe-model-guide.php:53
+msgid "For User"
+msgstr "ユーザー向け"
+
+#. Author of the plugin
+msgid "FSWA-NET"
+msgstr "FSWA-NET"
+
+#: model/class-hilfe-model-shortcode.php:45
+msgid "Funeral Hall Booking"
+msgstr "葬儀場予約"
+
+#: admin/class-hilfe-admin-guide.php:152
+msgid "Guide updated!"
+msgstr "ガイドは更新されました。"
+
+#: model/class-hilfe-model-shortcode.php:39
+msgid "Hearse and Resting Place Booking"
+msgstr "霊柩車・安置所予約"
+
+#: model/class-hilfe-model-shortcode.php:27
+msgid "Hearse Booking"
+msgstr "霊柩車予約"
+
+#: model/class-hilfe-model-guide.php:24
+msgid "HILFE"
+msgstr "HILFE"
+
+#: model/class-hilfe-model-guide.php:70
+msgid "HILFE AI"
+msgstr "HILFE AI"
+
+#: model/class-hilfe-model-guide.php:71
+msgid ""
+"HILFE AI lets users create videos, use AI for evaluation, and improve their "
+"skills."
+msgstr "HILFE AI を使用すると、利用者は動画を作成し、AI を使用して評価し、スキルを向上させることができます。"
+
+#. Name of the plugin
+#: model/class-hilfe-model-guide.php:47 admin/class-hilfe-admin.php:136
+#: admin/class-hilfe-admin.php:137
+msgid "HILFE AR"
+msgstr "HILFE AR"
+
+#: model/class-hilfe-model-guide.php:48
+msgid ""
+"HILFE AR is an app for buying convenience store products and ordering items "
+"for home and hall funerals."
+msgstr "HILFE ARは、コンビニ商品の購入や、自宅葬・会館葬の品物のオンライン注文ができるアプリです。"
+
+#. Description of the plugin
+msgid ""
+"HILFE AR plugin helps add more functions to banner and guidance editing , "
+"which will make it easier to manage a post of a wordpress site."
+msgstr "HILFE AR プラグインは、バナーやガイダンスの編集機能を追加することで、ワードプレスサイトの投稿をより簡単に管理することができます。"
+
+#: model/class-hilfe-model-guide.php:25
+#| msgid ""
+#| "HILFE is a platform for accommodations, venues, and funeral services, "
+#| "booking cars online."
+msgid ""
+"HILFE is a platform for accommodations, venues, cars and funeral services, "
+"hearse booking online."
+msgstr "HILFE は宿泊施設、会場、車両、葬儀サービス、霊柩車をオンラインで予約できるプラットフォームです。"
+
+#. URI of the plugin
+msgid "https://fswa-net.com"
+msgstr "https://fswa-net.com"
+
+#. Author URI of the plugin
+msgid "https://fswa-net.com/"
+msgstr "https://fswa-net.com/"
+
+#: admin/partials/hilfe-admin-guide-display.php:183
+msgid "Icon label"
+msgstr "アイコンラベル"
+
+#: admin/class-hilfe-admin-shortcode-edit.php:193
+msgid "Invalid format link. Example: https://fswa-net.com"
+msgstr "リンクのフォーマットは正しくありません。例：https://fswa-net.com"
+
+#: admin/partials/hilfe-admin-guide-display.php:90
+msgid "Is show guide"
+msgstr "ガイドを表示したいですか？"
+
+#: admin/partials/hilfe-admin-guide-display.php:176
+msgid "Label"
+msgstr "ラベル"
+
+#: admin/partials/hilfe-admin-guide-display.php:73
+msgid "Left"
+msgstr "左"
+
+#: admin/partials/hilfe-admin-shortcode-display.php:50
+#: admin/partials/hilfe-admin-shortcode-edit-display.php:65
+msgid "Link"
+msgstr "リンク"
+
+#: admin/partials/hilfe-admin-guide-display.php:195
+msgid "Link app android"
+msgstr "Androidアプリのリンク"
+
+#: admin/partials/hilfe-admin-guide-display.php:189
+msgid "Link app ios"
+msgstr "iOSアプリのリンク"
+
+#: admin/class-hilfe-admin-shortcode-edit.php:189
+msgid "Link can not empty"
+msgstr "リンクを入力してください"
+
+#: admin/partials/hilfe-admin-shortcode-display.php:22
+#: admin/partials/hilfe-admin-guide-display.php:22
+msgid "Loading..."
+msgstr "読み込み中"
+
+#: admin/partials/hilfe-admin-guide-display.php:114
+msgid "Mini description"
+msgstr "小説明"
+
+#: admin/class-hilfe-admin-guide.php:197
+msgid "Mini description can not empty"
+msgstr "小説明を入力してください"
+
+#: admin/partials/hilfe-admin-guide-display.php:108
+msgid "Mini title"
+msgstr "小タイトル"
+
+#: admin/class-hilfe-admin-guide.php:193
+msgid "Mini title can not empty"
+msgstr "小タイトルを入力してください"
+
+#: admin/class-hilfe-admin-guide.php:65
+msgid "Popup guide"
+msgstr "ポップアップガイド"
+
+#: admin/class-hilfe-admin-guide.php:64
+#: admin/partials/hilfe-admin-guide-display.php:33
+msgid "Popup guide management"
+msgstr "ポップアップガイド管理"
+
+#: admin/partials/hilfe-admin-guide-display.php:71
+msgid "Position"
+msgstr "位置"
+
+#: admin/class-hilfe-admin-guide.php:185
+msgid "Position can not empty"
+msgstr "位置を入力してください"
+
+#: model/class-hilfe-model-shortcode.php:51
+msgid "Religious Service Booking"
+msgstr "宗教予約"
+
+#: admin/partials/hilfe-admin-shortcode-display.php:37
+msgid "Reset Data"
+msgstr "データのリセット"
+
+#: admin/partials/hilfe-admin-guide-display.php:37
+msgid "Reset data"
+msgstr "データのリセット"
+
+#: model/class-hilfe-model-shortcode.php:33
+msgid "Resting Place Booking"
+msgstr "安置所予約"
+
+#: admin/partials/hilfe-admin-guide-display.php:74
+msgid "Right"
+msgstr "右"
+
+#: admin/class-hilfe-admin-guide.php:230
+msgid "Service apps can not empty"
+msgstr "サービスアプリを入力してください"
+
+#: admin/partials/hilfe-admin-shortcode-edit-display.php:59
+msgid "Service code"
+msgstr "サービスコード"
+
+#: admin/partials/hilfe-admin-guide-display.php:162
+msgid "Service description"
+msgstr "サービスの説明"
+
+#: admin/class-hilfe-admin-guide.php:222
+msgid "Service description can not empty"
+msgstr "サービスの説明を入力してください"
+
+#: admin/class-hilfe-admin-guide.php:226
+msgid "Service logo can not empty"
+msgstr "サービスのロゴを入力してください"
+
+#: admin/partials/hilfe-admin-shortcode-display.php:48
+#: admin/partials/hilfe-admin-shortcode-edit-display.php:53
+#: admin/partials/hilfe-admin-guide-display.php:154
+msgid "Service name"
+msgstr "サービス名"
+
+#: admin/class-hilfe-admin-guide.php:218
+msgid "Service name can not empty"
+msgstr "サービス名を入力してください"
+
+#: admin/class-hilfe-admin-guide.php:209
+msgid "Services can not empty"
+msgstr "サービスを入力してください"
+
+#: admin/class-hilfe-admin.php:65
+msgid "Settings"
+msgstr "設定"
+
+#: admin/class-hilfe-admin-shortcode.php:56
+#: admin/partials/hilfe-admin-shortcode-display.php:51
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: admin/class-hilfe-admin-shortcode-edit.php:65
+#: admin/class-hilfe-admin-shortcode-edit.php:66
+msgid "Shortcode Edit"
+msgstr "ショートコード編集"
+
+#: admin/partials/hilfe-admin-shortcode-edit-display.php:33
+#: admin/partials/hilfe-admin-shortcode-edit-display.php:95
+msgid "Shortcode edit"
+msgstr "ショートコード編集"
+
+#: admin/partials/hilfe-admin-shortcode-display.php:33
+msgid "Shortcode Management"
+msgstr "ショートコード管理"
+
+#: admin/class-hilfe-admin-shortcode.php:55
+msgid "Shortcode management"
+msgstr "ショートコード管理"
+
+#: admin/class-hilfe-admin-shortcode-edit.php:156
+msgid "Shortcode updated!"
+msgstr "ショートコードが更新されました。"
+
+#: admin/partials/hilfe-admin-guide-display.php:128
+msgid "Show description"
+msgstr "説明を表示"
+
+#: admin/class-hilfe-admin-guide.php:205
+msgid "Show description can not empty"
+msgstr "説明を入力してください"
+
+#: admin/partials/hilfe-admin-guide-display.php:122
+msgid "Show title"
+msgstr "タイトルを表示"
+
+#: admin/class-hilfe-admin-guide.php:201
+msgid "Show title can not empty"
+msgstr "「タイトルを入力してください」を表示"
+
+#: admin/partials/hilfe-admin-guide-display.php:63
+msgid "Space horizon"
+msgstr "欄外からの横方向の距離"
+
+#: admin/class-hilfe-admin-guide.php:181
+msgid "Space horizon can not empty"
+msgstr "欄外からの横方向の距離を入力してください"
+
+#: admin/partials/hilfe-admin-guide-display.php:55
+msgid "Space vertical"
+msgstr "欄外からの縦方向の距離"
+
+#: admin/class-hilfe-admin-guide.php:176
+msgid "Space vertical can not empty"
+msgstr "欄外からの縦方向の距離を入力してください"
+
+#: admin/partials/hilfe-admin-shortcode-display.php:52
+msgid "Tool"
+msgstr "ツール"
+
+#: admin/partials/hilfe-admin-shortcode-edit-display.php:85
+#: admin/partials/hilfe-admin-guide-display.php:211
+msgid "Update"
+msgstr "更新"
+
+#: admin/partials/hilfe-admin-shortcode-edit-display.php:77
+msgid "Upload Image"
+msgstr "画像をアプロード"
+
+#: model/class-hilfe-model-shortcode.php:21
+msgid "Venue Booking"
+msgstr "会場予約"
+
+#: admin/partials/hilfe-admin-dashboard-display.php:21
+msgid "Visit FSWA-NET"
+msgstr "FSWA-NETにアクセスします"
+
+#: model/class-hilfe-model-guide.php:18
+msgid "We provide the following services, you can download them below."
+msgstr "弊社の提供サービスは以下からダウンロードできます。"
+
+#: api/class-hilfe-api-shortcode.php:63 api/class-hilfe-api-guide.php:64
+msgid "You must login!"
+msgstr "ログインが必要です。"

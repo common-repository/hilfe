@@ -1,0 +1,425 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HILFE\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-15 03:03+0000\n"
+"PO-Revision-Date: 2024-08-14 06:22+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-5.8.1\n"
+"X-Domain: hilfe"
+
+#: model/class-hilfe-model-shortcode.php:15
+msgid "Accommodation Booking"
+msgstr "Accommodation Booking"
+
+#: admin/class-hilfe-admin-guide.php:251
+msgid "App android can not empty"
+msgstr "App android can not empty"
+
+#: admin/class-hilfe-admin-guide.php:235
+#, fuzzy
+#| msgid "Index can not empty"
+msgid "App index can not empty"
+msgstr "Please enter index"
+
+#: admin/class-hilfe-admin-guide.php:247
+msgid "App ios can not empty"
+msgstr "App ios can not empty"
+
+#: admin/partials/hilfe-admin-shortcode-display.php:103
+#: admin/partials/hilfe-admin-guide-display.php:223
+msgid "Are you want to reset data default"
+msgstr "Do you want to reset data by default?"
+
+#: model/class-hilfe-model-guide.php:16
+msgid "Available on smartphone, iPad and tablets"
+msgstr "Available on smartphone, iPad and tablets"
+
+#: admin/partials/hilfe-admin-shortcode-edit-display.php:35
+msgid "Back to shortcode management"
+msgstr "Back to shortcode management"
+
+#: admin/partials/hilfe-admin-guide-display.php:82
+msgid "Background color"
+msgstr "Background color"
+
+#: admin/class-hilfe-admin-guide.php:189
+msgid "Background color can not empty"
+msgstr "Please choose background color"
+
+#: admin/partials/hilfe-admin-shortcode-display.php:49
+#: admin/partials/hilfe-admin-shortcode-edit-display.php:73
+msgid "Banner"
+msgstr "Banner"
+
+#: admin/class-hilfe-admin-shortcode-edit.php:185
+msgid "Banner can not empty"
+msgstr "Please choose banner"
+
+#: model/class-hilfe-model-shortcode.php:9
+msgid "Car Booking"
+msgstr "Car Booking"
+
+#: model/class-hilfe-model-shortcode.php:57
+msgid "Cemetery Booking"
+msgstr "Cemetery Booking"
+
+#: admin/partials/hilfe-admin-shortcode-edit-display.php:112
+msgid "Choose Image"
+msgstr "Choose Image"
+
+#: admin/partials/hilfe-admin-shortcode-edit-display.php:110
+msgid "Choose new banner"
+msgstr "Choose new banner"
+
+#: admin/class-hilfe-admin-shortcode-edit.php:181
+msgid "Code can not empty"
+msgstr "Code can not be empty"
+
+#: admin/partials/hilfe-admin-dashboard-display.php:22
+msgid "Contractor login"
+msgstr "Contractor login"
+
+#: admin/partials/hilfe-admin-dashboard-display.php:23
+msgid "Contractor register"
+msgstr "Contractor register"
+
+#: admin/partials/hilfe-admin-guide-display.php:101
+msgid "Custom title"
+msgstr "Custom title"
+
+#: admin/partials/hilfe-admin-guide-display.php:50
+msgid "Custom UI"
+msgstr "Custom UI"
+
+#: admin/class-hilfe-admin-dashboard.php:46
+#: admin/class-hilfe-admin-dashboard.php:47
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: model/class-hilfe-model-guide.php:15 model/class-hilfe-model-guide.php:17
+msgid "Download here"
+msgstr "Download here"
+
+#: admin/partials/hilfe-admin-shortcode-display.php:87
+msgid "Edit"
+msgstr "Edit"
+
+#: model/class-hilfe-model-shortcode.php:84
+msgid "Empty code"
+msgstr "Code is empty"
+
+#: model/class-hilfe-model-shortcode.php:89
+#: admin/class-hilfe-admin-shortcode-edit.php:145
+msgid "Empty config"
+msgstr "Setting is empty"
+
+#: model/class-hilfe-model-guide.php:37 model/class-hilfe-model-guide.php:60
+msgid "For Contractor"
+msgstr "For Contractor"
+
+#: model/class-hilfe-model-guide.php:30 model/class-hilfe-model-guide.php:53
+msgid "For User"
+msgstr "For User"
+
+#. Author of the plugin
+msgid "FSWA-NET"
+msgstr "FSWA-NET"
+
+#: model/class-hilfe-model-shortcode.php:45
+msgid "Funeral Hall Booking"
+msgstr "Funeral Hall Booking"
+
+#: admin/class-hilfe-admin-guide.php:152
+msgid "Guide updated!"
+msgstr "Guideline has been updated"
+
+#: model/class-hilfe-model-shortcode.php:39
+msgid "Hearse and Resting Place Booking"
+msgstr "Hearse and Resting Place Booking"
+
+#: model/class-hilfe-model-shortcode.php:27
+msgid "Hearse Booking"
+msgstr "Hearse Booking"
+
+#: model/class-hilfe-model-guide.php:24
+msgid "HILFE"
+msgstr "HILFE"
+
+#: model/class-hilfe-model-guide.php:70
+msgid "HILFE AI"
+msgstr "HILFE AI"
+
+#: model/class-hilfe-model-guide.php:71
+msgid ""
+"HILFE AI lets users create videos, use AI for evaluation, and improve their "
+"skills."
+msgstr ""
+"HILFE AI lets users create videos, use AI for evaluation, and improve their "
+"skills."
+
+#. Name of the plugin
+#: model/class-hilfe-model-guide.php:47 admin/class-hilfe-admin.php:136
+#: admin/class-hilfe-admin.php:137
+msgid "HILFE AR"
+msgstr "HILFE AR"
+
+#: model/class-hilfe-model-guide.php:48
+msgid ""
+"HILFE AR is an app for buying convenience store products and ordering items "
+"for home and hall funerals."
+msgstr ""
+"HILFE AR is an app for buying convenience store products and ordering items "
+"for home and hall funerals."
+
+#. Description of the plugin
+msgid ""
+"HILFE AR plugin helps add more functions to banner and guidance editing , "
+"which will make it easier to manage a post of a wordpress site."
+msgstr ""
+"HILFE AR plugin helps add more functions to banner and guidance editing , "
+"which will make it easier to manage a post of a wordpress site."
+
+#: model/class-hilfe-model-guide.php:25
+msgid ""
+"HILFE is a platform for accommodations, venues, and funeral services, "
+"booking cars online."
+msgstr ""
+"HILFE is a platform for accommodations, venues, and funeral services, "
+"booking cars online."
+
+#. URI of the plugin
+msgid "https://fswa-net.com"
+msgstr "https://fswa-net.com"
+
+#. Author URI of the plugin
+msgid "https://fswa-net.com/"
+msgstr "https://fswa-net.com/"
+
+#: admin/partials/hilfe-admin-guide-display.php:183
+msgid "Icon label"
+msgstr "Icon label"
+
+#: admin/class-hilfe-admin-shortcode-edit.php:193
+msgid "Invalid format link. Example: https://fswa-net.com"
+msgstr "Link's format is invalid"
+
+#: admin/partials/hilfe-admin-guide-display.php:90
+msgid "Is show guide"
+msgstr "Do you want to show Guideline"
+
+#: admin/partials/hilfe-admin-guide-display.php:176
+msgid "Label"
+msgstr "Label"
+
+#: admin/partials/hilfe-admin-guide-display.php:73
+msgid "Left"
+msgstr "Left"
+
+#: admin/partials/hilfe-admin-shortcode-display.php:50
+#: admin/partials/hilfe-admin-shortcode-edit-display.php:65
+msgid "Link"
+msgstr "Link"
+
+#: admin/partials/hilfe-admin-guide-display.php:195
+msgid "Link app android"
+msgstr "Link app android"
+
+#: admin/partials/hilfe-admin-guide-display.php:189
+msgid "Link app ios"
+msgstr "Link app ios"
+
+#: admin/class-hilfe-admin-shortcode-edit.php:189
+msgid "Link can not empty"
+msgstr "Please enter URL link"
+
+#: admin/partials/hilfe-admin-shortcode-display.php:22
+#: admin/partials/hilfe-admin-guide-display.php:22
+msgid "Loading..."
+msgstr "Loading..."
+
+#: admin/partials/hilfe-admin-guide-display.php:114
+msgid "Mini description"
+msgstr "Short description"
+
+#: admin/class-hilfe-admin-guide.php:197
+msgid "Mini description can not empty"
+msgstr "Please fill in the Short description "
+
+#: admin/partials/hilfe-admin-guide-display.php:108
+msgid "Mini title"
+msgstr "Brief title"
+
+#: admin/class-hilfe-admin-guide.php:193
+msgid "Mini title can not empty"
+msgstr "Please enter brief title"
+
+#: admin/class-hilfe-admin-guide.php:65
+msgid "Popup guide"
+msgstr "Popup guide"
+
+#: admin/class-hilfe-admin-guide.php:64
+#: admin/partials/hilfe-admin-guide-display.php:33
+msgid "Popup guide management"
+msgstr "Popup guide management"
+
+#: admin/partials/hilfe-admin-guide-display.php:71
+msgid "Position"
+msgstr "Position"
+
+#: admin/class-hilfe-admin-guide.php:185
+msgid "Position can not empty"
+msgstr "Please enter position"
+
+#: model/class-hilfe-model-shortcode.php:51
+msgid "Religious Service Booking"
+msgstr "Religious Service Booking"
+
+#: admin/partials/hilfe-admin-shortcode-display.php:37
+msgid "Reset Data"
+msgstr "Reset Data"
+
+#: admin/partials/hilfe-admin-guide-display.php:37
+msgid "Reset data"
+msgstr "Reset data"
+
+#: model/class-hilfe-model-shortcode.php:33
+msgid "Resting Place Booking"
+msgstr "Resting Place Booking"
+
+#: admin/partials/hilfe-admin-guide-display.php:74
+msgid "Right"
+msgstr "Right"
+
+#: admin/class-hilfe-admin-guide.php:230
+msgid "Service apps can not empty"
+msgstr "Service apps can not empty"
+
+#: admin/partials/hilfe-admin-shortcode-edit-display.php:59
+msgid "Service code"
+msgstr "Service code"
+
+#: admin/partials/hilfe-admin-guide-display.php:162
+msgid "Service description"
+msgstr "Service description"
+
+#: admin/class-hilfe-admin-guide.php:222
+msgid "Service description can not empty"
+msgstr "Service description can not empty"
+
+#: admin/class-hilfe-admin-guide.php:226
+msgid "Service logo can not empty"
+msgstr "Service logo can not empty"
+
+#: admin/partials/hilfe-admin-shortcode-display.php:48
+#: admin/partials/hilfe-admin-shortcode-edit-display.php:53
+#: admin/partials/hilfe-admin-guide-display.php:154
+msgid "Service name"
+msgstr "Service name"
+
+#: admin/class-hilfe-admin-guide.php:218
+msgid "Service name can not empty"
+msgstr "Service name can not empty"
+
+#: admin/class-hilfe-admin-guide.php:209
+msgid "Services can not empty"
+msgstr "Please enter service "
+
+#: admin/class-hilfe-admin.php:65
+msgid "Settings"
+msgstr "Settings"
+
+#: admin/class-hilfe-admin-shortcode.php:56
+#: admin/partials/hilfe-admin-shortcode-display.php:51
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/class-hilfe-admin-shortcode-edit.php:65
+#: admin/class-hilfe-admin-shortcode-edit.php:66
+msgid "Shortcode Edit"
+msgstr "Edit shortcode"
+
+#: admin/partials/hilfe-admin-shortcode-edit-display.php:33
+#: admin/partials/hilfe-admin-shortcode-edit-display.php:95
+msgid "Shortcode edit"
+msgstr "Edit shortcode"
+
+#: admin/partials/hilfe-admin-shortcode-display.php:33
+msgid "Shortcode Management"
+msgstr "Shortcode Management"
+
+#: admin/class-hilfe-admin-shortcode.php:55
+msgid "Shortcode management"
+msgstr "Shortcode management"
+
+#: admin/class-hilfe-admin-shortcode-edit.php:156
+msgid "Shortcode updated!"
+msgstr "Shortcode has been updated"
+
+#: admin/partials/hilfe-admin-guide-display.php:128
+msgid "Show description"
+msgstr "Show description"
+
+#: admin/class-hilfe-admin-guide.php:205
+msgid "Show description can not empty"
+msgstr "Please enter description"
+
+#: admin/partials/hilfe-admin-guide-display.php:122
+msgid "Show title"
+msgstr "Show title"
+
+#: admin/class-hilfe-admin-guide.php:201
+msgid "Show title can not empty"
+msgstr "Please enter title"
+
+#: admin/partials/hilfe-admin-guide-display.php:63
+msgid "Space horizon"
+msgstr "Lateral distance from outside the column"
+
+#: admin/class-hilfe-admin-guide.php:181
+msgid "Space horizon can not empty"
+msgstr "Please enter space distance"
+
+#: admin/partials/hilfe-admin-guide-display.php:55
+msgid "Space vertical"
+msgstr "Vertical distance from outside the column"
+
+#: admin/class-hilfe-admin-guide.php:176
+msgid "Space vertical can not empty"
+msgstr "Please enter space distance"
+
+#: admin/partials/hilfe-admin-shortcode-display.php:52
+msgid "Tool"
+msgstr "Tool"
+
+#: admin/partials/hilfe-admin-shortcode-edit-display.php:85
+#: admin/partials/hilfe-admin-guide-display.php:211
+msgid "Update"
+msgstr "Update"
+
+#: admin/partials/hilfe-admin-shortcode-edit-display.php:77
+msgid "Upload Image"
+msgstr "Upload Image"
+
+#: model/class-hilfe-model-shortcode.php:21
+msgid "Venue Booking"
+msgstr "Venue Booking"
+
+#: admin/partials/hilfe-admin-dashboard-display.php:21
+msgid "Visit FSWA-NET"
+msgstr "Visit FSWA-NET"
+
+#: model/class-hilfe-model-guide.php:18
+msgid "We provide the following services, you can download them below."
+msgstr "We provide the following services, you can download them below."
+
+#: api/class-hilfe-api-shortcode.php:63 api/class-hilfe-api-guide.php:64
+msgid "You must login!"
+msgstr "You must login"

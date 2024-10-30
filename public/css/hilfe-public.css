@@ -1,0 +1,435 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+
+/* START STYLE OF SHORTCODE */
+
+.hilfe-shortcode-wrap {
+    width: 100%;
+}
+
+.hilfe-shortcode-href {
+    cursor: pointer;
+}
+
+.hilfe-shortcode-image {
+    width: 100%;
+    object-fit: cover;
+    object-position: center center;
+}
+
+
+/* START STYLE OF GUIDE */
+
+
+/* START MINI */
+
+.hilfe-guide-mini-wrap *,
+.hilfe-guide-show-wrap * {
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Noto Sans Japanese", "Yu Gothic", YuGothic, "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ ProN W3", Hiragino Kaku Gothic ProN, Arial, "ãƒ¡ã‚¤ãƒªã‚ª", Meiryo, sans-serif;
+}
+
+.hilfe-guide-mini-wrap {
+    position: fixed;
+    bottom: 45px;
+    left: 15px;
+    z-index: 998;
+    background: #2b8383 url(/wp-content/plugins/hilfe/public/images/icon/guide-mini-background.svg) no-repeat bottom left;
+    border: none;
+    cursor: pointer;
+    width: auto;
+    margin: 0;
+    padding: 0.35rem 0.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 1.2;
+    transition: all ease-in-out 0.3s;
+    border-radius: 3px;
+    min-width: 326px;
+}
+
+.hilfe-guide-mini-wrap:hover,
+.hilfe-guide-mini-wrap:active {
+    box-shadow: 1px 4px 10px rgb(0 0 0 / 30%);
+    transform: translateY(-5px);
+}
+
+.hilfe-guide-mini-wrap h3 {
+    color: white;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    margin-bottom: 0.15rem;
+    margin-top: 0;
+}
+
+.hilfe-guide-mini-wrap span {
+    font-size: 0.7rem;
+    color: rgba(255, 255, 255, .7);
+}
+
+
+/* START SHOW */
+
+.hilfe-guide-show-wrap {
+    position: fixed;
+    bottom: 45px;
+    left: 15px;
+    z-index: 999;
+    width: auto;
+    padding: 1.5rem 1.3rem 2rem;
+    background: #2b8383 url(/wp-content/plugins/hilfe/public/images/icon/guide-mini-background.svg) no-repeat bottom left;
+    background-size: auto 46%;
+    color: #fff;
+    line-height: 1.2;
+    /* border-radius: 12px !important; */
+    min-height: 545px;
+    width: 390px;
+    overflow: hidden;
+}
+
+.hilfe-guide-show-title {
+    text-align: center;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    position: relative;
+}
+
+.hilfe-guide-show-title:after {
+    /* content: ""; */
+    width: calc(100% + 1.8rem*2);
+    position: absolute;
+    height: 1px;
+    background: white;
+    bottom: 0;
+    left: -1.8rem;
+}
+
+.hilfe-guide-show-title h3 {
+    color: white;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    margin-bottom: 0.15rem;
+    margin-top: 0;
+}
+
+.hilfe-guide-show-title span {
+    font-size: 0.85rem;
+    color: rgba(255, 255, 255, .7);
+    width: 340px;
+    display: block;
+    margin: auto;
+}
+
+.hilfe-guide-show-block {
+    margin-bottom: 1.25rem;
+    padding-bottom: 0.15rem;
+    border-bottom: 1px solid rgb(255 255 255 / 30%);
+}
+
+.hilfe-guide-show-block:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+}
+
+.hilfe-guide-show-block-title {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+}
+
+.hilfe-guide-show-block-title img {
+    margin-right: 0.25rem;
+}
+
+.hilfe-guide-show-block-item-wrap {
+    margin-bottom: 0.5rem;
+}
+
+.hilfe-guide-show-block-item-title {
+    text-align: center;
+}
+
+.hilfe-guide-show-block-item-title h4 {
+    color: white;
+    font-size: 0.9rem;
+    font-weight: 400;
+    margin-bottom: 0.65rem;
+    line-height: 1.2;
+}
+
+.hilfe-guide-show-block-item-content ul {
+    list-style: none;
+    display: flex;
+    column-gap: 10px;
+    margin-bottom: 0.5rem;
+}
+
+.hilfe-guide-show-block-item-content li {
+    margin: 0;
+    border-radius: 12px;
+    transition: all ease-in-out 0.3s;
+}
+
+.hilfe-guide-show-block-item-content li img {
+    width: 150px;
+    height: 40px;
+}
+
+.hilfe-guide-show-block-item-content li:hover,
+.hilfe-guide-show-block-item-content li:active {
+    transform: translateY(-3px);
+    box-shadow: 0 0 10px 0px rgba(0, 0, 0, 0.25);
+}
+
+.hilfe-guide-show-close-button {
+    position: absolute;
+    top: 20px;
+    right: 10px;
+    padding: 5px;
+    cursor: pointer;
+    z-index: 999;
+    transition: all ease-in-out 0.3s;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.7;
+}
+
+.hilfe-guide-show-close-button:hover,
+.hilfe-guide-show-close-button:active {
+    background: rgb(255 255 255 / 30%);
+}
+
+.hilfe-guide-show-close-button img {
+    width: 24px;
+    height: 24px;
+    filter: brightness(0) invert(1);
+}
+
+.hilfe-d-none {
+    display: none;
+}
+
+.hilfe-d-block {
+    display: block;
+}
+
+.hilfe-guide-screen-1 {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.hilfe-guide-screen-1 li {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    transition: all ease-in-out 0.3s;
+    margin-bottom: 1.75rem;
+    /* padding: 0.5rem; */
+    /* border-radius: 3px; */
+    padding-bottom: 1.25rem;
+    position: relative;
+}
+
+.hilfe-guide-screen-1 li:after {
+    height: 1px;
+    width: 100%;
+    content: "";
+    display: block;
+    background: rgba(255, 255, 255, .2);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.hilfe-guide-screen-1 li:last-child:after {
+    display: none;
+}
+
+.hilfe-guide-screen-1 li .hilfe-guide-screen-1-logo {
+    height: 32px;
+    margin-right: 10px;
+    transition: all ease-in-out 0.3s;
+}
+
+.hilfe-guide-screen-1-title {
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    font-size: 1.1rem;
+    margin-bottom: 0.4rem;
+    transition: all ease-in-out 0.3s;
+}
+
+.hilfe-guide-screen-1-content {
+    display: flex;
+    flex-direction: column;
+    font-size: 1rem;
+}
+
+.hilfe-guide-screen-1-description {
+    padding-left: 42px;
+    padding-right: 0.5rem;
+    width: 280px;
+    font-size: 0.85rem;
+    opacity: 0.7;
+    transition: all ease-in-out 0.3s;
+    line-height: 1.5;
+}
+
+.hilfe-guide-screen-1 li:hover {
+    /* background: rgb(255 255 255 / 10%); */
+}
+
+.hilfe-guide-screen-1 li:active,
+.hilfe-guide-screen-1 li:focus {
+    /* background: rgb(255 255 255 / 10%); */
+}
+
+.hilfe-guide-screen-1 li:hover .hilfe-guide-screen-1-logo {
+    filter: contrast(130%);
+}
+
+.hilfe-guide-screen-1 li:hover .hilfe-guide-screen-1-description {
+    opacity: 1;
+    /* text-shadow: 0px 0px 1px rgb(0 0 0 / 90%); */
+}
+
+.hilfe-guide-screen-1 li:hover .hilfe-button-go-detail {
+    opacity: 1;
+}
+
+.hilfe-guide-screen-1 li:hover .hilfe-guide-screen-1-title {
+    text-shadow: 0px 0px 1px rgb(255 255 255 / 90%);
+}
+
+.hilfe-button-back-screen-1,
+.hilfe-button-go-detail {
+    background: transparent;
+    border: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 0;
+    margin: 0;
+    margin-right: -5px;
+    cursor: pointer;
+    transition: all ease-in-out 0.3s;
+    opacity: 0.7;
+}
+
+.hilfe-guide-screen-2-content {
+    padding: 0.25rem;
+}
+
+.hilfe-guide-screen-2-title-wrap {
+    position: relative;
+}
+
+.hilfe-button-back-screen-1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.hilfe-button-back-screen-1:hover,
+.hilfe-button-back-screen-1:active {
+    background: rgb(255 255 255 / 30%);
+}
+
+.hilfe-button-back-screen-1 img {
+    transform: rotate(180deg);
+    height: 25px;
+    margin: 0 !important;
+}
+
+.hilfe-guide-screen-2-title-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    /* margin-bottom: 1rem; */
+}
+
+.hilfe-guide-screen-2-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+
+.hilfe-guide-screen-2-title img {
+    height: 32px;
+    margin-right: 10px;
+}
+
+.hilfe-guide-screen-2-description {
+    width: 340px;
+    margin: auto;
+    font-size: 0.85rem;
+    line-height: 1.5;
+    padding-bottom: 1.75rem;
+    opacity: 0.7;
+}
+
+.hilfe-guide-screen-2-app-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 1.5rem;
+    justify-content: flex-start;
+    width: 100%;
+    font-size: 1rem;
+}
+
+.hilfe-guide-screen-2-app-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-bottom: 1px solid rgb(255, 255, 255, 0.2);
+    margin-bottom: 1.8rem;
+    padding-bottom: 1.5rem;
+}
+
+.hilfe-guide-screen-2-app-content:last-child {
+    border: none;
+}
+
+.hilfe-guide-screen-2-app-download {
+    display: flex;
+    gap: 2rem;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.hilfe-guide-screen-2-app-download a {
+    transition: all ease-in-out 0.2s;
+}
+
+.hilfe-guide-screen-2-app-download a:hover {
+    opacity: 0.7;
+}
+
+.hilfe-guide-screen-2-app {
+    padding: 0 1.25rem;
+}
+
+
+/* START RESPONSIVE */
+
+@media (max-width: 768px) {}
